@@ -1,7 +1,7 @@
-# Sai Yashwanth
+# Brian Obot
 
-Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
-I am currently working as the Head of AI at Vuhosi, leading the development of ai agents and automation workflows. Here's my [cv](./resume)
+Welcome to my personal website. I am Brian Obot, an Engineer, builder and a writer. 
+I am currently working as the Lead Backend Engineer at Vuhosi, leading the development of backend infrastructure for AI agents and automation workflows. Here's my <a href="https://docs.google.com/document/d/1q8O224GCpInFMhEHbFgVfyDXQu5dJ0cZZC5wYpwSQvE/edit?tab=t.0" target="_blank">[CV]</a>
 
 Want to know me better? Check my chronologically ordered [proof of work.](./timeline) This is basically a timeline of my work, achievements, and experiences over the years.
 

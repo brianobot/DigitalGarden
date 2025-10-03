@@ -55,3 +55,8 @@ I started documenting my life right after I started college. I was writing blogs
 - Learnt about Git and Github.
 - I initially chose CS because I wanted to become a game developer. I was super inspired by [Dani](https://www.youtube.com/@Danidev)
 - Joined College, Started my computer science journey in 2021.
+
+### 2020
+
+
+### 2019

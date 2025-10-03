@@ -15,16 +15,42 @@ import Timeline from './components/Timeline'
 function App() {
   return(
     <div className="min-h-screen w-full bg-white relative">
-      <div
+      {/* <div
         className="absolute inset-0 z-0"
         style={{
           backgroundImage: `
+            
             linear-gradient(to right, #e5e7eb 1px, transparent 1px),
             linear-gradient(to bottom, #e5e7eb 1px, transparent 1px)
           `,
           backgroundSize: "40px 40px",
         }}
-      />
+      /> */}
+    {/* <div
+      className="absolute inset-0 z-0"
+      style={{
+        background: "#ffffff",
+        backgroundImage: "radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)",
+        backgroundSize: "20px 20px",
+      }}
+    /> */}
+
+  <div
+    className="absolute inset-0 z-0"
+    style={{
+      backgroundImage: `
+        linear-gradient(to right, #d1d5db 1px, transparent 1px),
+        linear-gradient(to bottom, #d1d5db 1px, transparent 1px)
+      `,
+      backgroundSize: "32px 32px",
+      WebkitMaskImage:
+         "radial-gradient(ellipse 80% 80% at 100% 100%, #000 50%, transparent 90%)",
+      maskImage:
+         "radial-gradient(ellipse 80% 80% at 100% 100%, #000 50%, transparent 90%)",
+    }}
+  />
+  
+      
       <div className="relative z-10 ">
         <BrowserRouter>
           <Header />
