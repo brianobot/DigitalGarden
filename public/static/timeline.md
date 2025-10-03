@@ -35,16 +35,13 @@ I started documenting my life right after I started college. I was writing blogs
 - Worked as a Freelancer for Wulot (July-Sept). Earned some money (My first time earning money online)
 - Learnt JS, React and Nodejs to build complete full stack webapps.
 - Placed 5th in another Datathon hosted at our college.
-- [Placed 3rd](https://x.com/yashwanthsai29/status/1655501543783944192) at Train an AI to Play Chess Kaggle Competition MLH Global Hack Week (April). Beginners Luck!
 - Started learning ML, didnt understand much of it, went to explore backend and systems. Loved it.
 - Left Cybersec and started exploring ML.
 
 ### 2022
 - Barely missed getting a backlog. I was slowly realising that exams and the "school" system were not for me.
 - Hacked on a lot of small projects, and learnt a lot.
-- Gave my First Workshop, Linux for ethical hacking (November)
-- Got interested in CyberSec, started participating in CTFs.
-- Learnt C.
+- Learnt C in the ALX program.
 - Built a simple twitter bot (My first project which went live)
 - Got into ACM club of our college. Participated in the AIEP program where we had to build a real project. We chose gamedev. This kind of sucked, and we didnt build much, but it was a good experience, and i really liked our seniors efforts to make these things happen
 - Was still exploring game dev but eventually gave up.
@@ -53,10 +50,26 @@ I started documenting my life right after I started college. I was writing blogs
 - Started learning python seriously and building projects with it. 
 - Took part in my first hackathon and learnt a lot.
 - Learnt about Git and Github.
-- I initially chose CS because I wanted to become a game developer. I was super inspired by [Dani](https://www.youtube.com/@Danidev)
-- Joined College, Started my computer science journey in 2021.
+
 
 ### 2020
-
+- Started learning python seriously and building projects with it.
+- Started Using the Kivy Library in Python for building applications.
+- Started Using Django for building web applications.
+- Built a few small projects with python. (A password manager, a todo app)
 
 ### 2019
+- Had my first exposure to programming with Java and Python. Built a simple calculator and a few scripts with it.
+- Started learning about data structures and algorithms.
+
+### 2018
+- Got Admission into University of Ibadan to study Physics.
+- Rejected the admission to pursue my passion in Electrical Electronic Engineering in Madonna University.
+
+### 2017
+- Started and Completed my Cambridge IGSCD A levels in Physics, Chemistry, Geography, Computer and Maths.
+- Got interested in computers and programming. Started learning basics of programming with Html, CSS and MS.Excel 
+
+### 2016
+- Had my first exposure to programming with Html and CSS. Built a simple website for my school project.
+- Had my first exposure to some internal working of. computer like interacting with the terminal
